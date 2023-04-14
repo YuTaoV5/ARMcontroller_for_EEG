@@ -1,0 +1,1 @@
+[tensor(370.), tensor(402.), tensor(579.), tensor(628.)]lan 0.91
